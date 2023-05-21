@@ -65,7 +65,7 @@ class ZC:
     
     
     #Page reference
-    login_url = "https://kite.zerodha.com/"
+    login_url = "https://www.angelone.in/"
     xpath_username = "//*[@id='container']/div/div/div/form/div[2]/input"
     xpath_pswd = "//*[@id='container']/div/div/div/form/div[3]/input"
     xpath_pin = "//*[@id='container']/div/div/div/form/div[2]/div/input"
